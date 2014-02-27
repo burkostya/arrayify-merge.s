@@ -16,7 +16,8 @@
   },
   "keywords": [
     "pipeland",
-    "stream"
+    "stream",
+    "arrayify"
   ],
   "files": [
     "lib",
