@@ -1,15 +1,15 @@
 {
   "author": "Konstantin Burykin <burkostya@gmail.com>",
-  "name": "arrayify\-merge.s",
+  "name": "arrayify-merge.s",
   "description": "Wraps packets of streams into stream",
   "version": "0.1.0",
   "license": "MIT",
   "scripts": {
     "test": "mocha"
   },
-  "homepage": "http://github.com/burkostya/arrayify\-merge.s",
-  "repository": "git://github.com:burkostya/arrayify\-merge.s.git",
-  "bugs": "http://github.com/burkostya/arrayify\-merge.s/issues",
+  "homepage": "http://github.com/burkostya/arrayify-merge.s",
+  "repository": "git://github.com:burkostya/arrayify-merge.s.git",
+  "bugs": "http://github.com/burkostya/arrayify-merge.s/issues",
   "main": "index.js",
   "engines": {
     "node": ">= 0.10.21"
@@ -24,12 +24,14 @@
     "README.md"
   ],
   "dependencies": {
-    "readable-stream": "^1.1.0"
+    "readable-stream": "^1.1.0",
+    "map-merge.s": "^0.1.1"
   },
   "devDependencies": {
     "mocha": "^1.17.0",
     "chai": "^1.9.0",
-    "inspect-stream": "^0.1.0"
+    "inspect-stream": "^0.1.0",
+    "stream-spectrum": "^0.1.5"
   },
   "readmeFilename": "README.md"
 }
