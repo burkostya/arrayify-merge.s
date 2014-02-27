@@ -1,6 +1,6 @@
 # arrayify-merge.s
 
-Wraps packets of streams into stream
+Wraps packets of streams into array
 
 ## Installation
 
