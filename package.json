@@ -2,7 +2,7 @@
   "author": "Konstantin Burykin <burkostya@gmail.com>",
   "name": "arrayify-merge.s",
   "description": "Wraps packets of streams into array",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "license": "MIT",
   "scripts": {
     "test": "mocha"
